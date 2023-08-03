@@ -1,0 +1,11 @@
+C:\Users\izabella.fbarros\source\repos\calculadoraForms\calculadoraForms\bin\Debug\calculadoraForms.exe.config
+C:\Users\izabella.fbarros\source\repos\calculadoraForms\calculadoraForms\bin\Debug\calculadoraForms.exe
+C:\Users\izabella.fbarros\source\repos\calculadoraForms\calculadoraForms\bin\Debug\calculadoraForms.pdb
+C:\Users\izabella.fbarros\source\repos\calculadoraForms\calculadoraForms\obj\Debug\calculadoraForms.csproj.AssemblyReference.cache
+C:\Users\izabella.fbarros\source\repos\calculadoraForms\calculadoraForms\obj\Debug\calculadoraForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\izabella.fbarros\source\repos\calculadoraForms\calculadoraForms\obj\Debug\calculadoraForms.Form1.resources
+C:\Users\izabella.fbarros\source\repos\calculadoraForms\calculadoraForms\obj\Debug\calculadoraForms.Properties.Resources.resources
+C:\Users\izabella.fbarros\source\repos\calculadoraForms\calculadoraForms\obj\Debug\calculadoraForms.csproj.GenerateResource.cache
+C:\Users\izabella.fbarros\source\repos\calculadoraForms\calculadoraForms\obj\Debug\calculadoraForms.csproj.CoreCompileInputs.cache
+C:\Users\izabella.fbarros\source\repos\calculadoraForms\calculadoraForms\obj\Debug\calculadoraForms.exe
+C:\Users\izabella.fbarros\source\repos\calculadoraForms\calculadoraForms\obj\Debug\calculadoraForms.pdb
